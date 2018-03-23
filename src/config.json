@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Directives",
+    "list": [
+      {
+        "path": "/require-for",
+        "name": "RequireFor",
+        "icon": "icon-zhaoshengzhuanlan"
+      },
+      {
+        "path": "/textarea-autoheight",
+        "name": "TextareaAutoheight",
+        "icon": "toast"
+      }
+    ]
+  },
+  {
+    "title": "Services",
+    "list": [
+      {
+        "path": "/validity",
+        "name": "Validity",
+        "icon": "toast"
+      }
+    ]
+  },
+  {
+    "title": "Components",
+    "list": [
+      {
+        "path": "/input-autoclear",
+        "name": "InputAutoclear",
+        "icon": "toast"
+      },
+      {
+        "path": "/search-autoclear",
+        "name": "SearchAutoclear",
+        "icon": "toast"
+      },
+      {
+        "path": "/swipe",
+        "name": "Swipe",
+        "icon": "toast"
+      },
+      {
+        "path": "/alert",
+        "name": "Alert",
+        "icon": "toast"
+      },
+      {
+        "path": "/upload",
+        "name": "Upload",
+        "icon": "toast"
+      },
+      {
+        "path": "/select",
+        "name": "Select",
+        "icon": "toast"
+      },
+      {
+        "path": "/mtswipe",
+        "name": "Mtswipe",
+        "icon": "toast"
+      },
+      {
+        "path": "/common_input",
+        "name": "Common_input",
+        "icon": "toast"
+      }
+    ]
+  }
+]

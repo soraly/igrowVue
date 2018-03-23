@@ -1,0 +1,20 @@
+$red: red;
+body {
+    background: #fff;
+}
+header {
+    color: $red;
+}
+:root {
+    --heading-color: #000;
+}
+
+/* custom selectors */
+@custom-selector :--headings h1, h2, h3, h4, h5, h6;
+
+/* usage */
+:--headings {
+    font-size: 30px;
+    text-align: right;
+    color: var(--heading-color);
+}

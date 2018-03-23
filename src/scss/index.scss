@@ -1,0 +1,40 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+a, img, button, input, i, div, li, textarea {
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+a {
+  text-decoration: none;
+}
+.am-list {
+  padding: 10px 0;
+  .am-list-item {
+    color: #000;
+    font-size: 17px;
+    line-height: 21px;
+    padding: 12px 15px 11px;
+    vertical-align: middle;
+    text-align: left;
+    overflow: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background:#fff;
+    .am-list-content {
+      flex: 1;
+      min-width: .6rem;
+      width: auto;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .am-list-arrow {
+      margin-left: 8px;
+      margin-right: -2px;
+      width: 12px;
+    }
+  }
+}

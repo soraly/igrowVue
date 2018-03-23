@@ -1,0 +1,53 @@
+/* 字体 */
+$bodyFont: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
+
+/* 主题色 */
+$main-blue: #41A3FD;
+$success-color: #4caf50;
+$error-color: #f44336;
+$warning-color: #ffc107;
+
+/* 字体颜色 */
+$black: #000;
+$black-light: #343b43;
+$gray-darker: #666;
+$gray-dark: #888;
+$gray: #999;
+$gray-light: #ccc;
+$gray-lighter: #eee;
+$white: #fff;
+$red: #f00;
+$blue: #108EE9;
+
+/* 边框颜色 */
+$border-color-dark: #999;
+$border-color: #ddd;
+$border-color-light: #ccc;
+$border-color-lighter: #eee;
+
+/* 背景颜色 */
+$bg-app: #F6F5FA;
+$bg-color-dark: #ccc;
+$bg-color-base: #ddd;
+$bg-color-light: #eee;
+$bg-body: #f8f8f8;
+
+/* 文字大小 以iphone6为标准 */
+$font-size-base: 0.15rem;
+$font-size-middle: 0.14rem;
+$font-size-small: 0.13rem;
+$font-size-smaller: 0.12rem;
+$font-size-littlebig: 0.16rem;
+$font-size-large: 0.18rem;
+$font-size-larger: 0.2rem;
+$font-size-h4: 0.22rem;
+$font-size-h3: 0.24rem;
+$font-size-h2: 0.3rem;
+$font-size-h1: 0.36rem;
+
+/* 圆角大小 */
+$border-radius-larger: 8px;
+$border-radius-large: 5px;
+$border-radius-base: 3px;
+$border-radius-small: 2px;
+$border-radius-smaller: 1px;
